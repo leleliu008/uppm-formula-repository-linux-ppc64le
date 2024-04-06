@@ -1,0 +1,5 @@
+summary: A modern diagram scripting language that turns text to diagrams
+webpage: https://github.com/terrastruct/d2
+version: 0.6.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/d2-0.6.3-linux-ppc64le.tar.xz
+bin-sha: cf40c56c1c285eb0f739550cab6fdb2e94f23c394ca9f7379344010c7eae8aa6
